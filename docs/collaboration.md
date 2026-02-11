@@ -1,4 +1,3 @@
 # Collaboration Guidelines
 
-Update first paragraph for conflict scenario B
-
+ Collaboration requires adaptability, trust, and continuous alignment among team members.
